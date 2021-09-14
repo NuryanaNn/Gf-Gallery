@@ -9,6 +9,6 @@ $(document).ready(function () {
     $("#col3").addClass("animate__animated animate__fadeIn animate__delay-3s");
     $("#col4").addClass("animate__animated animate__fadeIn animate__delay-4s");
     $("#col5").addClass("animate__animated animate__fadeIn animate__delay-5s");
-    $("#col6").addClass("animate__animated animate__fadeIn animate__delay-5");
+    $("#col6").addClass("animate__animated animate__fadeIn animate__delay-");
 
 });
