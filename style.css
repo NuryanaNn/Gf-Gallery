@@ -25,6 +25,10 @@
     
 }
 
+.love2 li{
+    margin-left: -10px;
+}
+
 .love2 li img{
     height: 150px;
     width: 150px;
