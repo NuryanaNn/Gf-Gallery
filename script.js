@@ -11,4 +11,7 @@ $(document).ready(function () {
     $("#col5").addClass("animate__animated animate__fadeIn animate__delay-5s");
     $("#col6").addClass("animate__animated animate__fadeIn animate__delay-");
 
+
+
+
 });
